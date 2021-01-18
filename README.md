@@ -1,2 +1,2 @@
-# Donut Shop Clustering by Borough in Washington DC
-This is a clustering model I created for my IBM Data Science Specialization Capstone Project. 
+# Donut Shop Clustering Model
+This is a clustering model, using the K-means algorithm, I created for my IBM Data Science Specialization Capstone Project. Data from Wikipedia tables was webscraped using Beautiful Soup, venue data was obtained using the Foursquare Places API and maps were created with the Folium library. You can find the final clusters in DC_Clustering.ipynb. An additional notebook, Toronto_Neighborhood_Clustering.ipynb, is included in this repository; it was created as practice for the final submission. 
